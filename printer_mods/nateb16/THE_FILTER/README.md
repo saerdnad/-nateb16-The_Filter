@@ -11,7 +11,8 @@
 
 <h2>FOR FYSETC BEDS</h2>
 
-![filter model](https://user-images.githubusercontent.com/40711977/205870094-7e7c07b6-8fc4-48cc-be1a-14624c461d2c.PNG)
+
+![THE_FILTER_FYSETC](https://user-images.githubusercontent.com/40711977/215372358-e4c5da67-451c-4bd3-a985-12d2e801c684.png)
 
 <h2>ABOUT</h2>
 
