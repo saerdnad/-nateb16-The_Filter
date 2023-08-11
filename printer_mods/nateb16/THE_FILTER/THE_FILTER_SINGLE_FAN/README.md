@@ -33,3 +33,5 @@ Changelog:
 1/2/2023: Confirmed all components fit well and dock alignment is good. Minor update to the left side housing to remove an unintended gap. If you printed one before now, you will need to reprint ONLY the left side housing with the "Left Side Housing Fixed" STL.
 
 1/23/2023: Added STLs and CADs for optional housings for those who prefer a fixed mount. Uses a M3 screw to hold it against the bed rails.
+
+8/11/2023: Added a simple brace print for the single fan modules. I found it useful when using them as left and right fans in my V2.4 to keep them from being knocked off the magnetic connectors as they are not vey strong. I kept having the modules get knocked loose. It's not an issue for the middle module since that is sandwiched on both sides by bed rails. Simply print two, then with the fan modules installed, use double sided tape to stick them to the bottom plate of the printer with long flat edge pressed against the filter module. 
